@@ -4,7 +4,7 @@
 
 开发者邮箱：soloopenlife@gmail.com
 
-Privacy Policy
+# Privacy Policy
 
 We take your privacy very seriously. This policy outlines how we collect, use, and protect your personal information.
 Information We Collect:
